@@ -101,3 +101,14 @@ console.log(JSON.parse(json_obj1));
 
 
 
+// -----------------object exercise-------------------
+console.log("-----------------object exercise-------------------");
+let object1 = {
+    a:10,
+    b:20,
+    a:30
+}
+console.log(object1);
+
+// output {a:30, b:20}
+
