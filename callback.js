@@ -1,3 +1,5 @@
+console.log('---------------callback start--------------')
+
 console.time('myscript')
 
 const countryList = {
