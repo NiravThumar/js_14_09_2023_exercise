@@ -111,4 +111,3 @@ let object1 = {
 console.log(object1);
 
 // output {a:30, b:20}
-
